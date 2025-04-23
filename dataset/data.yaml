@@ -1,6 +1,6 @@
-train: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingV8\dataset\train
-val: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingV8\dataset\valid
-test: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingV8\dataset\test
+train: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingYOLO12NoOCR\dataset\train
+val: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingYOLO12NoOCR\dataset\valid
+test: C:\suniB\S2\Semester8\DeepLearning\Project\TrainingYOLO12NoOCR\dataset\test
 
 nc: 37
 names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Plate', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
